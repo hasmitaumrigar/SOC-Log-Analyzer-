@@ -1,4 +1,4 @@
-***# SOC-Log-Analyzer***
+***SOC-Log-Analyzer***
 
 **Overview**
 
@@ -64,6 +64,18 @@ During development, I initially added the full datetime as the “Minute” colu
 I fixed it by formatting the Minute column as HH:MM, making the sample logs table clean and readable in the report.
 
 This taught me the importance of data formatting for reporting and visualization, especially when working with professional documents.
+
+**Learning Outcomes**
+
+**Log Analysis Skills:** Learned to parse Apache logs and extract meaningful fields for monitoring.
+
+**Threat Detection Techniques:** Implemented algorithms for brute-force, DoS, and error spike detection.
+
+**Visualization & Reporting:** Created dashboards and professional 2-page reports for SOC monitoring.
+
+**Python Development Best Practices:** Modular code with separate scripts for detection, visualization, and reporting.
+
+**Problem-Solving:** Learned to identify and fix formatting issues and make alerts readable in tables and reports.
 
 **Conclusion**
 
